@@ -7,6 +7,2015 @@
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
+<!-- 765AS,876,961 -->
+  <rdf:Description rdf:about="Amami_Haruka_Minase_Iori">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Miura_Azusa">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Futami_Ami">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Futami_Mami">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Otonashi_Kotori">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Hoshii_Miki">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Shijou_Takane">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">四条さん</imas:Called>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Hidaka_Ai">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Mizutani_Eri">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Leon">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Amami_Haruka_Shika">
+    <imas:Source rdf:resource="Amami_Haruka"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Amami_Haruka">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Miura_Azusa">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずさ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Futami_Ami">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Futami_Mami">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Otonashi_Kotori">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Hoshii_Miki">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Shijou_Takane">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">四条貴音</imas:Called>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Mizutani_Eri">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Leon">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Minase_Iori_Shika">
+    <imas:Source rdf:resource="Minase_Iori"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Amami_Haruka">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Minase_Iori">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Futami_Ami">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Futami_Mami">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Otonashi_Kotori">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">音無さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Hoshii_Miki">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Shijou_Takane">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <imas:Called xml:lang="ja">貴音ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Kuroi_Takao">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井社長</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Hidaka_Ai">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Mizutani_Eri">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miura_Azusa_Shika">
+    <imas:Source rdf:resource="Miura_Azusa"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Amami_Haruka">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Minase_Iori">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">水瀬さん</imas:Called>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Miura_Azusa">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">高槻さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">萩原さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Futami_Ami">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Futami_Mami">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Otonashi_Kotori">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">音無さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Hoshii_Miki">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">我那覇さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Shijou_Takane">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">四条さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Hidaka_Ai">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">日高さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Mizutani_Eri">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">水谷さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">秋月さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Leon">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Shika">
+    <imas:Source rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Amami_Haruka">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Minase_Iori">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Miura_Azusa">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Futami_Ami">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Futami_Mami">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Otonashi_Kotori">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Hoshii_Miki">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Shijou_Takane">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Hidaka_Ai">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Mizutani_Eri">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Shika">
+    <imas:Source rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Amami_Haruka">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Minase_Iori">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Miura_Azusa">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Futami_Ami">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Futami_Mami">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Otonashi_Kotori">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Hoshii_Miki">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Shijou_Takane">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Hidaka_Ai">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Mizutani_Eri">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Leon">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kikuchi_Makoto_Shika">
+    <imas:Source rdf:resource="Kikuchi_Makoto"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Amami_Haruka">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Minase_Iori">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Miura_Azusa">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Futami_Ami">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Futami_Mami">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Otonashi_Kotori">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">音無さん</imas:Called>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Hoshii_Miki">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Shijou_Takane">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">四条さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Hidaka_Ai">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Mizutani_Eri">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Leon">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Shika">
+    <imas:Source rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Amami_Haruka">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Minase_Iori">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Miura_Azusa">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Futami_Ami">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Futami_Mami">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Otonashi_Kotori">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Hoshii_Miki">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Shijou_Takane">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Kuroi_Takao">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井社長</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Hidaka_Ai">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">日高さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Mizutani_Eri">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">水谷さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Shika">
+    <imas:Source rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Amami_Haruka">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">はるるん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Minase_Iori">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">いおりん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Miura_Azusa">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずさお姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早お姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいっち</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">まこちん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">ゆきぴょん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律っちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Futami_Mami">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Otonashi_Kotori">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">ピヨちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Hoshii_Miki">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">ミキミキ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">ひびきん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Shijou_Takane">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">お姫ちん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Hidaka_Ai">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <imas:Called xml:lang="ja">愛ぴょん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Mizutani_Eri">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">お姉ちゃん</imas:Called>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Ami_Shika">
+    <imas:Source rdf:resource="Futami_Ami"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">プリンプリン</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Amami_Haruka">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">はるるん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Minase_Iori">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">いおりん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Miura_Azusa">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずさお姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早お姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいっち</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">まこちん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">ゆきぴょん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律っちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Futami_Ami">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Otonashi_Kotori">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">ピヨちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Hoshii_Miki">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">ミキミキ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">ひびきん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Shijou_Takane">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">お姫ちん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Hidaka_Ai">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <imas:Called xml:lang="ja">愛ぴょん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Mizutani_Eri">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">お姉ちゃん</imas:Called>
+    <imas:Called xml:lang="ja">おねーちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Futami_Mami_Shika">
+    <imas:Source rdf:resource="Futami_Mami"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花お姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Amami_Haruka">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Minase_Iori">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Miura_Azusa">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Futami_Ami">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Futami_Mami">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Hoshii_Miki">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otonashi_Kotori_Shijou_Takane">
+    <imas:Source rdf:resource="Otonashi_Kotori"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Amami_Haruka">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Minase_Iori">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Miura_Azusa">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Futami_Ami">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Futami_Mami">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Otonashi_Kotori">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥さん</imas:Called>
+    <imas:Called xml:lang="ja">音無さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Hoshii_Miki">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Shijou_Takane">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Producer_Kuroi_Takao">
+    <imas:Source rdf:resource="Producer"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井社長</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Amami_Haruka">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Minase_Iori">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <imas:Called xml:lang="ja">でこちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Miura_Azusa">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずさ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真君</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <imas:Called xml:lang="ja">律子…さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Futami_Ami">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Futami_Mami">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Otonashi_Kotori">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Shijou_Takane">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Kuroi_Takao">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井社長</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Hidaka_Ai">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Mizutani_Eri">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hoshii_Miki_Shika">
+    <imas:Source rdf:resource="Hoshii_Miki"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Amami_Haruka">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Minase_Iori">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Miura_Azusa">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Futami_Ami">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Futami_Mami">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Otonashi_Kotori">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">ぴよ子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Hoshii_Miki">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Shijou_Takane">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Kuroi_Takao">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井社長</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ganaha_Hibiki_Mizutani_Eri">
+    <imas:Source rdf:resource="Ganaha_Hibiki"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">エリチン</imas:Called>
+    <imas:Called xml:lang="ja">エリーゼ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Amami_Haruka">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Minase_Iori">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">水瀬伊織</imas:Called>
+    <imas:Called xml:lang="ja">伊織殿</imas:Called>
+    <imas:Called xml:lang="ja">伊織</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Miura_Azusa">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">三浦あずさ</imas:Called>
+    <imas:Called xml:lang="ja">あずさ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">如月千早</imas:Called>
+    <imas:Called xml:lang="ja">千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">萩原雪歩</imas:Called>
+    <imas:Called xml:lang="ja">雪歩殿</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子嬢</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Futami_Ami">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">双海亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Futami_Mami">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">双海真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Otonashi_Kotori">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Otonashi_Kotori"/>
+    <imas:Called xml:lang="ja">小鳥嬢</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Hoshii_Miki">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Kuroi_Takao">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">黒井殿</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Leon">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shijou_Takane_Shika">
+    <imas:Source rdf:resource="Shijou_Takane"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Miura_Azusa">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">三浦あずさ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">如月千早</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">高槻やよい</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">秋月律子</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Futami_Ami">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">双海亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Hoshii_Miki">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Shijou_Takane">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kuroi_Takao_Shika">
+    <imas:Source rdf:resource="Kuroi_Takao"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Amami_Haruka">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Miura_Azusa">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいさん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩先輩</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Futami_Ami">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Hoshii_Miki">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">ホシイミキ</imas:Called>
+    <imas:Called xml:lang="ja">ホシイさん</imas:Called>
+    <imas:Called xml:lang="ja">美希センパイ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Hidaka_Ai">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">あたし</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Mizutani_Eri">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hidaka_Ai_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Hidaka_Ai"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Amami_Haruka">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Minase_Iori">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Miura_Azusa">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいさん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">萩原さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">秋月さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Futami_Ami">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Futami_Mami">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Hoshii_Miki">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">星井さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Hidaka_Ai">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Mizutani_Eri">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">わたし</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mizutani_Eri_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Mizutani_Eri"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">涼さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+<!-- 秋月涼DS(876Pro)分 -->
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Hidaka_Ai">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Hidaka_Ai"/>
+    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Mizutani_Eri">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Mizutani_Eri"/>
+    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Sakurai_Yumeko">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Sakurai_Yumeko"/>
+    <imas:Called xml:lang="ja">夢子ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Amami_Haruka">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Minase_Iori">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Miura_Azusa">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいさん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子姉ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Futami_Ami">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Shijou_Takane">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Hoshii_Miki">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">星井さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Akizuki_Ryo_876_Akizuki_Ryo_876">
+    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Destination rdf:resource="Akizuki_Ryo_876"/>
+    <imas:Called xml:lang="ja">私</imas:Called>
+    <imas:Called xml:lang="ja">僕</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+<!-- 秋月涼DS(876Pro)分 ここまで -->
+  <rdf:Description rdf:about="Leon_Amami_Haruka">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">天海</imas:Called>
+    <imas:Called xml:lang="ja">春香</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Minase_Iori">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">水瀬</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Miura_Azusa">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">三浦</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">如月</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">高槻</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">菊地</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">萩原</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">秋月</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Futami_Ami">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Futami_Mami">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Hoshii_Miki">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">星井</imas:Called>
+    <imas:Called xml:lang="ja">美希</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">我那覇</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leon_Shijou_Takane">
+    <imas:Source rdf:resource="Leon"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">四条</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Amami_Haruka">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Amami_Haruka"/>
+    <imas:Called xml:lang="ja">春香ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Minase_Iori">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Minase_Iori"/>
+    <imas:Called xml:lang="ja">伊織ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Miura_Azusa">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Miura_Azusa"/>
+    <imas:Called xml:lang="ja">あずささん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Kisaragi_Chihaya">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
+    <imas:Called xml:lang="ja">千早ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">やよいちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真ちゃん</imas:Called>
+    <imas:Called xml:lang="ja">真さま</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Hagiwara_Yukiho">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
+    <imas:Called xml:lang="ja">雪歩ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Akizuki_Ritsuko">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Called xml:lang="ja">律子さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Futami_Ami">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Futami_Ami"/>
+    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Futami_Mami">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Futami_Mami"/>
+    <imas:Called xml:lang="ja">真美ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Hoshii_Miki">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Hoshii_Miki"/>
+    <imas:Called xml:lang="ja">美希ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Ganaha_Hibiki">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Ganaha_Hibiki"/>
+    <imas:Called xml:lang="ja">響ちゃん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Shijou_Takane">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Shijou_Takane"/>
+    <imas:Called xml:lang="ja">貴音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Kuroi_Takao">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Kuroi_Takao"/>
+    <imas:Called xml:lang="ja">社長</imas:Called>
+    <imas:Called xml:lang="ja">パパ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
 <!-- CinderellaGirls -->
   <rdf:Description rdf:about="Shimamura_Uzuki_Shimamura_Uzuki">
     <imas:Source rdf:resource="Shimamura_Uzuki"/>
@@ -56084,92 +58093,6 @@
     <imas:Called xml:lang="ja">賢くん</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
-<!-- 秋月涼DS(876Pro)分 -->
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Hidaka_Ai">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Hidaka_Ai"/>
-    <imas:Called xml:lang="ja">愛ちゃん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Mizutani_Eri">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Mizutani_Eri"/>
-    <imas:Called xml:lang="ja">絵理ちゃん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Sakurai_Yumeko">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Sakurai_Yumeko"/>
-    <imas:Called xml:lang="ja">夢子ちゃん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Amami_Haruka">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Amami_Haruka"/>
-    <imas:Called xml:lang="ja">春香さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Minase_Iori">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Minase_Iori"/>
-    <imas:Called xml:lang="ja">伊織さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Miura_Azusa">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Miura_Azusa"/>
-    <imas:Called xml:lang="ja">あずささん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Kisaragi_Chihaya">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Kisaragi_Chihaya"/>
-    <imas:Called xml:lang="ja">千早さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Takatsuki_Yayoi">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
-    <imas:Called xml:lang="ja">やよいさん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Kikuchi_Makoto">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
-    <imas:Called xml:lang="ja">真さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Hagiwara_Yukiho">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Hagiwara_Yukiho"/>
-    <imas:Called xml:lang="ja">雪歩さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Akizuki_Ritsuko">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Akizuki_Ritsuko"/>
-    <imas:Called xml:lang="ja">律子姉ちゃん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Futami_Ami">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Futami_Ami"/>
-    <imas:Called xml:lang="ja">亜美ちゃん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Shijou_Takane">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Shijou_Takane"/>
-    <imas:Called xml:lang="ja">貴音さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="Akizuki_Ryo_876_Hoshii_Miki">
-    <imas:Source rdf:resource="Akizuki_Ryo_876"/>
-    <imas:Destination rdf:resource="Hoshii_Miki"/>
-    <imas:Called xml:lang="ja">星井さん</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
-<!-- 秋月涼DS(876Pro)分 ここまで -->
   <rdf:Description rdf:about="Kitamura_Sora_Akai_Suzaku">
     <imas:Source rdf:resource="Kitamura_Sora"/>
     <imas:Destination rdf:resource="Akai_Suzaku"/>
